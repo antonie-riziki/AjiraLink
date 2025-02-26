@@ -7,3 +7,4 @@ streamlit_lottie
 streamlit_chat
 africastalking
 requests
+json
