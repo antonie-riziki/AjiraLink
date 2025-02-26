@@ -8,3 +8,4 @@ streamlit_chat
 africastalking
 requests
 json
+opencv-python
