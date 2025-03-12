@@ -1,4 +1,5 @@
 pandas
+seaborn
 streamlit
 python-dotenv
 google-generativeai
