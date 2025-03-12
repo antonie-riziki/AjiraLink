@@ -3,7 +3,7 @@ import pandas as pd
 import africastalking
 import os
 import requests
-import cv2
+# import cv2
 import google.generativeai as genai
 
 from streamlit_lottie import st_lottie
